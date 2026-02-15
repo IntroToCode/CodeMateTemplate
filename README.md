@@ -1,4 +1,4 @@
-# Assignment C - Part 2: GitHub Codemates Group Work
+# GitHub Team Assignment
 
 Details for this assignment are in bCourses. 
 
