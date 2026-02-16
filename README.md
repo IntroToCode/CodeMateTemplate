@@ -1,5 +1,8 @@
-# GitHub Team Assignment
+# Recipe Index
 
-Details for this assignment are in bCourses. 
+- Breakfast: 
+- Lunch: 
+- Dinner: 
 
-This readme is editable.
+_Notes_
+__
